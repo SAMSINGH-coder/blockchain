@@ -1,0 +1,23 @@
+Question 1:
+What is your understanding of Blockchain?
+      Blockchain is the system of recording information that is duplicated and distributed across the internet so that it is a digital leader so that it is hightly tough to change, hack or cheat the system.
+
+Question 2:
+What is the core problem Blockchain trying to solve?
+      Blockchain is trying to solve the Data security and Trust by making the ledger public.
+so that everyone could get trust with eachother.
+ 
+Question 3:
+What are the few features which Blockchain will give you?
+      Data stored in the Blockchain is immutable and cannot be changed easily.
+      Decentralised 
+      Distributed ledgers
+      Verifiable
+ 
+Question 4:
+What are all the things does a Block contain?
+      Each block contains, the current time, a record of some or all recent transactions, and a refference of the previous block in hash value.
+
+Question 5:
+How is the verifiable of Blockchain has been attained?
+      Verifiable is attained with the help of degital signature, which is duplicated in computer network system. At each interval of time digital signature is verified at all computers in a netwok. If any mismatches computers in a network occur, the the data is checked amd re-entered. In this way verifiable can be done inn Block chain.
